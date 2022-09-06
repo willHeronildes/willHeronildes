@@ -16,6 +16,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-Buscando novas oportunidades, unindo a vontade de aprender com a garra de querer crescer. sou apenas um cara apaixonado por tecnologia!.
+Buscando novas oportunidades unido a vontade de aprender com a garra de querer crescer. Sou apenas um cara apaixonado por tecnologia!
 
 "Se você encontrar algo de que goste muito fazer, Não será capaz de esperar o sol nascer para fazê-lo outra vez." (Gardner)
